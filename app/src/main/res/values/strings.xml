@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">LiteracyApp</string>
 
-
+    <string name="server_is_not_reachable">Server is not reachable. See the log for details.</string>
+    <string name="wifi_needs_to_be_enabled">Wi-Fi needs to be enabled</string>
+    <string name="registering_device">Registering device...</string>
+    <string name="downloading_content">Downloading content...</string>
+    <string name="device_registration_failed">Device registration failed</string>
+    <string name="download_complete">Download complete</string>
+    <string name="wifi_needs_to_be_connected">Wi-Fi needs to be connected</string>
 </resources>
